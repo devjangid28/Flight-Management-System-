@@ -1,0 +1,46 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "FlightBookingGUI",
+            "request": "launch",
+            "mainClass": "FlightBookingGUI",
+            "projectName": "flight_d9c57544",
+            "vmArgs": "--module-path \"C:/Users/asus_/OneDrive/Desktop/javafx-sdk-22.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "FlightFilterGUI",
+            "request": "launch",
+            "mainClass": "FlightFilterGUI",
+            "projectName": "flight_d9c57544",
+            "vmArgs": "--module-path \"C:/Users/asus_/OneDrive/Desktop/javafx-sdk-22.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "FlightReservationSystem",
+            "request": "launch",
+            "mainClass": "FlightReservationSystem",
+            "projectName": "flight_d9c57544",
+            "vmArgs": "--module-path \"C:/Users/asus_/OneDrive/Desktop/javafx-sdk-22.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "flight_d9c57544",
+            "vmArgs": "--module-path \"C:/Users/asus_/OneDrive/Desktop/javafx-sdk-22.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
